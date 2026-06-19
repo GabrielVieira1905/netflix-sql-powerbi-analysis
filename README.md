@@ -29,7 +29,7 @@ Netflix Movies and TV Shows Dataset
 
 ## Dashboard
 
-![Dashboard](dashboard/dashboard final.jpeg)
+![Dashboard](dashboard/dashboard final.png)
 
 ## Estrutura do Projeto
 
