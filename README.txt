@@ -27,6 +27,10 @@ Netflix Movies and TV Shows Dataset
 - 30,38% do catálogo é composto por séries.
 - Os Estados Unidos concentram a maior quantidade de títulos.
 
+## Dashboard
+
+![Dashboard](dashboard/dashboard_final)
+
 ## Estrutura do Projeto
 
 sql/
